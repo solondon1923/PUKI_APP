@@ -1,6 +1,8 @@
 # thoriq_puki
 
 Project Aplikasi Perpustakaan Digital UKK RPL 2024
+aplikasi ini bermanfaat untuk SMKN 5 SURAKARTA
+
 
 ## Getting Started
 
